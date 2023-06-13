@@ -164,7 +164,7 @@ const Login = () => {
               <div className='form-check mb-1'>
                 <Input type='checkbox' id='remember-me' />
                 <Label className='form-check-label' for='remember-me'>
-                  Remember Me
+                  Recordar contraseña
                 </Label>
               </div>
               <Button type='submit' color='warning' block>
